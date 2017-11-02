@@ -1,7 +1,0 @@
-package Proxy;
-
-public class aaa {
-	public static void main(String []args){
-		
-	}
-}
